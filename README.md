@@ -7,12 +7,11 @@ This is the repository for a random small website. The goal was to discover **we
 
 The website is not available online, but my current portfolio is on the following URL : [victorsimonin.fr](victorsimonin.fr)
 
-## Home Page
+## Header Page
 
+The **Header** page is the fixed point of the website, it expose a small logo and few buttons to go on different pages and sign up.
 
 <img src="https://github.com/Bictole/Portfolio/blob/master/readme_images/home.png" alt="Home">
-
-The home page is main point of the routing, we can find a picture of me and all the links to the other pages.
 
 We have the following pages :
 
