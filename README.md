@@ -11,7 +11,7 @@ The website is not available online, but my current portfolio is on the followin
 
 The **Header** page is the fixed point of the website, it expose a small logo and few buttons to go on different pages and sign up.
 
-<img src="https://github.com/Bictole/Portfolio/blob/master/readme_images/home.png" alt="Home">
+<img src="https://github.com/Bictole/Website/blob/main/readme_images/header.png" alt="Header">
 
 We have the following pages :
 
