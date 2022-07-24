@@ -16,7 +16,12 @@ The **Header** page is the fixed point of the website, it expose a small logo an
 
 ## Main Section
 
-The Main section
+The Main section is here to introduce the informations of the **website**. For the moment the work is mostly into the **style** part with different titles, buttons and images.
+
+<img src="https://github.com/Bictole/Website/blob/main/readme_images/header.png" alt="Header">
+
+
+## Footer Section
 
 <img src="https://github.com/Bictole/Portfolio/blob/master/readme_images/social.png" align="right" alt="Social_part">
 
@@ -26,5 +31,3 @@ You can find my :
 * [Github account](https://github.com/Bictole)
 * [Linkedin](https://www.linkedin.com/in/victor-simonin/)
 * [Kaggle account](https://www.kaggle.com/victorsimonin)
-
-## Footer Section
