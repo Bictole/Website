@@ -23,4 +23,4 @@ The Main section is here to introduce the informations of the **website**. For t
 
 ## Footer Section
 
-The portfolio contains a pretty stylish **footer section** with lots of informations and links such as `About`, `Contact`, `Videos` or `Social Media`
+The portfolio contains a pretty stylish **footer section** with lots of informations and links such as `About`, `Contact`, `Videos` or `Social Media`. 
